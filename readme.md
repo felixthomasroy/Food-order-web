@@ -83,8 +83,8 @@ No build tools, package managers, or backend setups are required! You can run th
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/felixthomasroy/food_order_web.git
-cd food_order_web
+git clone https://github.com/felixthomasroy/Food-order-web.git
+cd Food-order-web
 ```
 
 ### 2. Run the application
@@ -111,11 +111,10 @@ Then visit `http://localhost:8000` in your browser.
 
 To make your food ordering web app accessible online for free:
 
-1. Push your repository to GitHub.
-2. Go to your repository's **Settings** tab.
-3. Click on **Pages** in the left sidebar.
-4. Under **Build and deployment** > **Branch**, select `main` (or `master`) and folder `/ (root)`.
-5. Click **Save**. Your site will be live at `https://<your-username>.github.io/<repo-name>/` in a few minutes!
+1. Go to your repository's **Settings** tab: [Food-order-web Settings](https://github.com/felixthomasroy/Food-order-web/settings/pages).
+2. Click on **Pages** in the left sidebar.
+3. Under **Build and deployment** > **Branch**, select `main` and folder `/ (root)`.
+4. Click **Save**. Your site will be live at `https://felixthomasroy.github.io/Food-order-web/` in a few minutes!
 
 ---
 
@@ -167,7 +166,7 @@ In [`script.js`](script.js), add a new entry to the `PROMO_CODES` object:
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/) if you want to contribute.
+Feel free to check the [issues page](https://github.com/felixthomasroy/Food-order-web/issues) if you want to contribute.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
